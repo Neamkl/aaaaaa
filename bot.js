@@ -102,4 +102,4 @@ if (message.content.toLowerCase().match(/(www.youtube.com|youtu.be|client.token|
 }
 })
 
-bot.login(process.env.token)
+client.login(process.env.token)
