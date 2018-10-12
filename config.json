@@ -1,0 +1,14 @@
+{
+  "modrole" : "mod-yetkisi",
+  "adminrole" : "admin-yetkisi",
+  "prefix" : "w!",
+  "youtubeapikey": "AIzaSyA0xHa56Bt-SHhyMBPd3kq_4nMwW4b4Wyg",
+  "token" : "",
+  "logchannel" : "moderator-log",
+  "developers" : [
+    "285364390868287488"
+  ],
+  "owners" : [
+    "285364390868287488"
+  ]
+}
